@@ -1,1 +1,15 @@
-public class Exercise08_RectangleAreaPerimeter{public static void main(String[]a){double w=5.5,h=8.5;System.out.println("Area="+(w*h));System.out.println("Perimeter="+(2*(w+h)));}}
+public class Exercise08_RectangleAreaPerimeter {
+
+    public static void main(String[] args) {
+
+        double width = 5.5;
+        double height = 8.5;
+
+        double area = width * height;
+        double perimeter = 2 * (width + height);
+
+        System.out.println("Area = " + area);
+        System.out.println("Perimeter = " + perimeter);
+
+    }
+}
