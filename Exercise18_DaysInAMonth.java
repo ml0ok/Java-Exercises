@@ -1,0 +1,1 @@
+import java.time.*;import java.util.*; public class Exercise18_DaysInAMonth{public static void main(String[]a){Scanner s=new Scanner(System.in);int m=s.nextInt(),y=s.nextInt();System.out.println(YearMonth.of(y,m).lengthOfMonth());}}

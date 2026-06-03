@@ -1,0 +1,1 @@
+import java.util.*; public class Exercise10_BreakIntegerIntoDigits{public static void main(String[]a){Scanner s=new Scanner(System.in);String n=s.next();for(char c:n.toCharArray())System.out.print(c+" ");}}

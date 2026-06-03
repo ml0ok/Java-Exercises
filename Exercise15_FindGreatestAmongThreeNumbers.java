@@ -1,0 +1,1 @@
+import java.util.*; public class Exercise15_FindGreatestAmongThreeNumbers{public static void main(String[]a){Scanner s=new Scanner(System.in);int x=s.nextInt(),y=s.nextInt(),z=s.nextInt();int m=x;if(y>m)m=y;if(z>m)m=z;System.out.println(m);}}

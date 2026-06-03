@@ -1,0 +1,1 @@
+import java.util.*; public class Exercise07_AverageOfThreeNumbers{public static void main(String[]a){Scanner s=new Scanner(System.in);int x=s.nextInt(),y=s.nextInt(),z=s.nextInt();System.out.println((x+y+z)/3.0);}}

@@ -1,0 +1,1 @@
+import java.util.*; public class Exercise14_SolveQuadraticEquation{public static void main(String[]a){Scanner s=new Scanner(System.in);double A=s.nextDouble(),B=s.nextDouble(),C=s.nextDouble();double d=B*B-4*A*C;if(d>=0){System.out.println(( -B+Math.sqrt(d))/(2*A));System.out.println(( -B-Math.sqrt(d))/(2*A));}}}

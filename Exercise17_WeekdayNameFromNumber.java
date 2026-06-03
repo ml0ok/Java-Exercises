@@ -1,0 +1,1 @@
+import java.util.*; public class Exercise17_WeekdayNameFromNumber{public static void main(String[]a){Scanner s=new Scanner(System.in);int n=s.nextInt();String[] d={"","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"};System.out.println(d[n]);}}

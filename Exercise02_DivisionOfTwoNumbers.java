@@ -1,0 +1,1 @@
+public class Exercise02_DivisionOfTwoNumbers{public static void main(String[]a){System.out.println(60/3);}}

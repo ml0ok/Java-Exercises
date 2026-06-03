@@ -1,0 +1,1 @@
+public class Exercise12_CompareSignedUnsigned{public static void main(String[]a){int x=-1,y=1;System.out.println(Integer.compareUnsigned(x,y));}}

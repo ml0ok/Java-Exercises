@@ -1,0 +1,1 @@
+import java.util.*; public class Exercise16_CheckPositiveNegativeOrZero{public static void main(String[]a){Scanner s=new Scanner(System.in);double n=s.nextDouble();if(n==0)System.out.println("zero");else if(n>0)System.out.println("positive");else System.out.println("negative");}}

@@ -1,0 +1,1 @@
+import java.util.*; public class Exercise09_ArithmeticOperationsOnTwoIntegers{public static void main(String[]a){Scanner s=new Scanner(System.in);int x=s.nextInt(),y=s.nextInt();System.out.println("Sum="+(x+y));}}

@@ -1,0 +1,1 @@
+public class Exercise11_CheckFiniteFloatingPoint{public static void main(String[]a){double x=10.5;System.out.println(Double.isFinite(x));}}

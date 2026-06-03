@@ -1,0 +1,1 @@
+public class Exercise01_SumOfTwoNumbers{public static void main(String[]a){System.out.println(70+36);}}

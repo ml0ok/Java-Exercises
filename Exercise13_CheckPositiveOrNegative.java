@@ -1,0 +1,1 @@
+import java.util.*; public class Exercise13_CheckPositiveOrNegative{public static void main(String[]a){Scanner s=new Scanner(System.in);int n=s.nextInt();System.out.println(n>=0?"Positive":"Negative");}}
